@@ -22,13 +22,6 @@
                         <a class="nav-item nav-link" href="#">Akcesoria</a>
                         <a class="nav-item nav-link" href="#">Ewolucja Rillfit SIX®</a>
                         <a class="nav-item nav-link" href="#">Dystrybucja</a>
-                        <a class="nav-item nav-link" href="#">Dystrybucja</a>
-                        <a class="nav-item nav-link" href="#">Dystrybucja</a>
-
-                        <a class="nav-item nav-link" href="#">Dystrybucja</a>
-                        <a class="nav-item nav-link" href="#">Dystrybucja</a>
-                        <a class="nav-item nav-link" href="#">Dystrybucja</a>
-                        <a class="nav-item nav-link" href="#">Dystrybucja</a>
                         </div>
                     </div>
                 </nav>
