@@ -104,10 +104,10 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="buy-device">
+                    <div class="buy-device">
                             <p>Tę nacinarkę kupisz na:</p>
                             <a href="https://sklep.phu-szczepan.pl/product-pol-848-Nacinarka-do-Opon-RILLFIT-SIX-Wyrzynarka-do-Bieznika-RUFF-Nozyki.html"><button class="btn orange" type="button"><span>Kup już teraz!</span></button></a>
-                    </div>   -->
+                    </div>  
                 </div>
             </div>
         </div>
