@@ -113,12 +113,9 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <h2>Jak działają ostrza?</h2>
-                        <h3>Zobacz, jak to działa:</h3>
-                        <ol>
-                            <li>Przykładasz nożyk do nacinanego materiału</li>
-                            <li>Prąd przepływa przez nożyki.</li>
-                            <li>Odciągasz nożyk - prąd przestaje płynąć.</li>
-                        </ol>
+                        
+                        <img src="images/_MG_6066.png" alt="Jak dzialają ostrza?">
+                        
                      </div>
                 </div>
             </div>
